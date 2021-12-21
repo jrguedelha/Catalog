@@ -19,7 +19,6 @@ D:\Projects\Catalog\obj\Debug\net5.0\Catalog.csproj.CoreCompileInputs.cache
 D:\Projects\Catalog\obj\Debug\net5.0\Catalog.MvcApplicationPartsAssemblyInfo.cs
 D:\Projects\Catalog\obj\Debug\net5.0\Catalog.MvcApplicationPartsAssemblyInfo.cache
 D:\Projects\Catalog\obj\Debug\net5.0\staticwebassets\Catalog.StaticWebAssets.Manifest.cache
-D:\Projects\Catalog\obj\Debug\net5.0\staticwebassets\Catalog.StaticWebAssets.xml
 D:\Projects\Catalog\obj\Debug\net5.0\scopedcss\bundle\Catalog.styles.css
 D:\Projects\Catalog\obj\Debug\net5.0\Catalog.RazorTargetAssemblyInfo.cache
 D:\Projects\Catalog\obj\Debug\net5.0\Catalog.csproj.CopyComplete
@@ -27,3 +26,4 @@ D:\Projects\Catalog\obj\Debug\net5.0\Catalog.dll
 D:\Projects\Catalog\obj\Debug\net5.0\ref\Catalog.dll
 D:\Projects\Catalog\obj\Debug\net5.0\Catalog.pdb
 D:\Projects\Catalog\obj\Debug\net5.0\Catalog.genruntimeconfig.cache
+D:\Projects\Catalog\bin\Debug\net5.0\Catalog.StaticWebAssets.xml
