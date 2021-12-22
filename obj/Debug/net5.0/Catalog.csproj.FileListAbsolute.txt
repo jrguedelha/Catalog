@@ -26,4 +26,3 @@ D:\Projects\Catalog\obj\Debug\net5.0\Catalog.dll
 D:\Projects\Catalog\obj\Debug\net5.0\ref\Catalog.dll
 D:\Projects\Catalog\obj\Debug\net5.0\Catalog.pdb
 D:\Projects\Catalog\obj\Debug\net5.0\Catalog.genruntimeconfig.cache
-D:\Projects\Catalog\bin\Debug\net5.0\Catalog.StaticWebAssets.xml
